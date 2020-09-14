@@ -1,0 +1,19 @@
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+3.1
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
+3.1.2.1    
+    - Learning curve is mean of the error by epoch
+
+    - Perceptron smoother learning curve than delta
+        - probably because delta adjusts more  
+3.1.2.2
+
+3.1.2.3
+    - Learning curve has a constant error because it can only classify with a boundry through zero, whereas with a bias the boundry can move
+
+3.1.3.1
+    - Subsampling allows better classification of one than the other, if there are more datapoints in one
+        - This means the boundry would shift to classify one better, which would result in more miss-classification of the other set  
+    - The network takes longer to settle and performed worse at the beginning as well.
+
